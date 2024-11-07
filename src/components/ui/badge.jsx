@@ -1,6 +1,3 @@
-// src/components/ui/badge.jsx
-import React from 'react';
-
 export function Badge({
     variant = 'default',
     className = '',

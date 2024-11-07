@@ -1,6 +1,6 @@
 import React from 'react';
 import { HERO_CONTENT, SKILLS } from '../constants';
-import aboutImg from "../assets/about.jpg";
+import aboutImg from "../assets/About.jpg";
 
 
 const SkillBadge = (props) => (

@@ -1,6 +1,7 @@
 import React from 'react';
 import { CONTACT } from '../constants';
-import EmailLink from './ui/email';
+import EmailLink from './ui/EmailLink';
+import PhoneNumber from './ui/PhoneNumber';
 
 const Contact = () => {
   return (
@@ -10,7 +11,8 @@ const Contact = () => {
 
       <div className="text-neutral leading-relaxed">
         <p className="my-2">{CONTACT.address}</p>
-        <p className="my-2">{CONTACT.phoneNo}</p>
+        <PhoneNumber phone={CONTACT.phoneNo} className="my-2" />
+        <br />
         <EmailLink email={CONTACT.email} />
       </div>
     </section>

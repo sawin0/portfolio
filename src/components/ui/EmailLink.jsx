@@ -1,4 +1,3 @@
-
 const EmailLink = ({ email, className }) => {
     return (
         <a

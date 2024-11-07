@@ -1,9 +1,8 @@
 import React from 'react';
-import { Card, CardContent } from './ui/card';
-import { Badge } from './ui/badge';
+import { Card, CardContent } from './ui/Card';
 import { EXPERIENCES } from '../constants';
+import { Badge } from './ui/Badge';
 
-// Simple icon components to replace lucide-react
 const Calendar = () => (
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
