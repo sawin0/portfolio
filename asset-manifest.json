@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sabin-portfolio/static/css/main.33858f09.css",
+    "main.js": "/sabin-portfolio/static/js/main.fcfba9d2.js",
+    "static/js/453.f480811e.chunk.js": "/sabin-portfolio/static/js/453.f480811e.chunk.js",
+    "static/media/about.jpg": "/sabin-portfolio/static/media/about.2980bcbe5d8c7053b586.jpg",
+    "static/media/SabinProfile.jpg": "/sabin-portfolio/static/media/SabinProfile.07b88b2728b7f29f0579.jpg",
+    "static/media/project-1.jpg": "/sabin-portfolio/static/media/project-1.b4edb64fae613c0446a4.jpg",
+    "static/media/project-5.jpg": "/sabin-portfolio/static/media/project-5.1ab547dbabf05f739c47.jpg",
+    "static/media/project-4.jpg": "/sabin-portfolio/static/media/project-4.122082fd302350a2b0a7.jpg",
+    "index.html": "/sabin-portfolio/index.html",
+    "main.33858f09.css.map": "/sabin-portfolio/static/css/main.33858f09.css.map",
+    "main.fcfba9d2.js.map": "/sabin-portfolio/static/js/main.fcfba9d2.js.map",
+    "453.f480811e.chunk.js.map": "/sabin-portfolio/static/js/453.f480811e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33858f09.css",
+    "static/js/main.fcfba9d2.js"
+  ]
+}
